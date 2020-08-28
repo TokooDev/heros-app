@@ -7,3 +7,16 @@ input{
 input:focus{
   border: none;
 }
+
+.btn{
+  position: relative;
+  margin-top: 10px;
+  width: 100px;
+  height: 30px;
+  border: none;
+  border-radius: 8px 8px;
+}
+.titre{
+  color: #405061;
+  font-family: Arial, Helvetica, sans-serif;
+}
